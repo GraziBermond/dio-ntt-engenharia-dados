@@ -10,3 +10,8 @@ Sou Grazi Bermond, atuo como Analista de Dados, curso Gestão da Produção Indu
     ► Depósito: é possível adicionar valores positivos.
     ► Saque: é possível realizar 3 saques, tendo o valor limite de R$ 500 e que o valor do saque seja menor ou igual do valor em conta.
     ► Extrato: apresenta todas as transações realizadas, seus respectivos valores e o saldo atualizado.
+
+## Desafio 02 - Sistema Financeiro com Data e Hora
+### Fiz uma melhoria no Sistema Bancário do Desafio 01, onde é possível:
+    ► Extrato: Visualizar a data e hora que as transações foram realizadas.
+    ► Limite de Transações: É possível realizar até 10 transações por dia. Excedendo esse limite, é apresentado uma mensagem de alerta, informando que o limite foi atingido.
